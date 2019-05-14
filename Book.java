@@ -12,7 +12,9 @@
 		public String getPages() {
 			return pages;
 		}
-		
+		public void setAuthor(String author) {
+			this.author = author;
+		}
 		public static void main(String[] args) {
 		
 
